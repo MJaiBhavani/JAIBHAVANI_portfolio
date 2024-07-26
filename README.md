@@ -2,9 +2,9 @@
 
 HR_ANALYTICS_data Dashboard
 
-Dashboard Link :"C:\Users\jaibh\OneDrive\Documents\HR_ANALYTICS_data.pbix"
+Dashboard Link :("C:\Users\jaibh\OneDrive\Documents\HR_ANALYTICS_data.pbix")
 
-Repositary :https://github.com/MJaiBhavani/PowerBI
+[Repositary: ](https://github.com/MJaiBhavani/PowerBI)
 
 Description
 
