@@ -1,7 +1,8 @@
-### Data analyst 
+## Data analyst 
 This portfolio show cases my data analysis projects and skills 
+
 ---
-### Education 
+## Education 
 - Bachelor of technology – CSE 	   
      DHANEKULA Institute of Engineering and Technology   2021- 2025
 - Intermediate – MPC:	             
@@ -9,12 +10,18 @@ This portfolio show cases my data analysis projects and skills
 - SSC:	                           
      Government High school       2014 - 2019
 ---
-### Tools                  Skills 
-- EXCEL                   - PYTHON(NUMPY,PANDAS,MATPLOTLIB)
-- POWER BI                - C ,C++ , Java
-- SQL                     - HTML , CSS 
+## Tools
+- EXCEL
+- POWER BI
+- MYSQL
 ---
-### projects 
+## SKILLS 
+PYTHON , C , C++ ,HTML ,CSS    
+
+---
+## projects 
+ ### HR ALAYTICS 
+  
 
 
   
