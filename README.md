@@ -3,6 +3,9 @@
 - [LinkedIN](https://www.linkedin.com/in/jai-bhavani-565433318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - phone : 9701335324
 
+## Resume 
+ - [JAIBHAVANI-Resume](https://github.com/user-attachments/files/16624188/resume.docx)
+
 ---
 ## Education 
 - Bachelor of technology – CSE 	   
