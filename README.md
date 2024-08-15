@@ -17,7 +17,6 @@ This portfolio show cases my data analysis projects and skills
 - HTML
 - CSS
 ### projects 
----
 
   
 
