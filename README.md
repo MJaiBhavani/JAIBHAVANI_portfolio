@@ -21,6 +21,16 @@ PYTHON , C , C++ ,HTML ,CSS
 ---
 ## projects 
  ### HR ALAYTICS 
+ - The "HR analytics " data analytics project aims to investigate the factors contributing to employee turnover within an organization.
+ -  By analyzing historical employee data, including demographics, job roles, performance metrics, and exit reasons, the project seeks to uncover patterns and predictors of attrition.
+ -  The insights gained will be used to develop predictive models and actionable recommendations to improve employee retention strategies.
+ -   The ultimate goal is to help the organization reduce turnover rates, enhance workforce stability, and optimize human resource practices, thereby contributing to overall organizational success.
+ - 
+### Pizza sales 
+- The "Pizza Sales" data analytics project focuses on examining sales data to uncover trends, patterns, and factors influencing pizza sales performance.
+- By analyzing data such as sales volume, customer demographics, seasonal variations, and promotional effects, the project aims to identify key drivers of sales and opportunities for growth.
+- The insights will be used to optimize inventory management, refine marketing strategies, and enhance customer targeting, ultimately boosting sales and profitability for the pizza business.
+ 
   
 
 
