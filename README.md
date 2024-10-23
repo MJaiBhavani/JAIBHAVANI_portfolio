@@ -11,10 +11,6 @@
 ## Education 
 - Bachelor of technology – CSE 	   
      DHANEKULA Institute of Engineering and Technology     [2021- 2025]
-- Intermediate – MPC:	             
-     Government junior college    [2019 -2021]
-- SSC:	                           
-     Government High school       [2014 - 2019]
 
 ---
 ## Tools
@@ -35,11 +31,7 @@ PYTHON , C , C++ ,HTML ,CSS
  -   The ultimate goal is to help the organization reduce turnover rates, enhance workforce stability, and optimize human resource practices, thereby contributing to overall organizational success.
  -   ![HRdataanalytics](https://github.com/user-attachments/assets/e68b08fa-1219-45b4-8a5c-4f74b16796d5)
 
-### Pizza sales 
-- The "Pizza Sales" data analytics project focuses on examining sales data to uncover trends, patterns, and factors influencing pizza sales performance.
-- By analyzing data such as sales volume, customer demographics, seasonal variations, and promotional effects, the project aims to identify key drivers of sales and opportunities for growth.
-- The insights will be used to optimize inventory management, refine marketing strategies, and enhance customer targeting, ultimately boosting sales and profitability for the pizza business.
-- ![Excel](https://github.com/user-attachments/assets/55e0a4ea-f655-499f-84fd-5be18b2d30b4)
+
 
 
   
