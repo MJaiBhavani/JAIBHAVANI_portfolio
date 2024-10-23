@@ -53,6 +53,9 @@ Repository : https://github.com/MJaiBhavani/Website_traffic
  -  By analyzing historical employee data, including demographics, job roles, performance metrics, and exit reasons, the project seeks to uncover patterns and predictors of attrition.
  -  The insights gained will be used to develop predictive models and actionable recommendations to improve employee retention strategies.
  -  The ultimate goal is to help the organization reduce turnover rates, enhance workforce stability, and optimize human resource practices, thereby contributing to overall organizational success.
+
+Repository : https://github.com/MJaiBhavani/PowerBI
+
  -  ![HRdataanalytics](https://github.com/user-attachments/assets/e68b08fa-1219-45b4-8a5c-4f74b16796d5)
    
 
