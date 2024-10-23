@@ -33,6 +33,9 @@ PYTHON , C , C++ ,HTML ,CSS
 
 ## projects 
 
+- [web traffic analysis](#web-traffic-analysis)
+- [HR ALAYTICS](#HR-ALAYTICS)
+
 ### web traffic analysis 
 -  The "Web Traffic Analysis" project utilizes Power BI to provide a comprehensive overview of website performance and user behavior.
 -  It features interactive dashboards that visualize key metrics such as sessions, page views, and user demographics.
