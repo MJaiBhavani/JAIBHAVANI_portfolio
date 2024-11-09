@@ -20,7 +20,8 @@ I am eager to apply my skills in a data analyst role, where I can help organizat
 - phone : 9701335324
 
 ## Resume 
- - [JAIBHAVANI-Resume]()
+
+ - [JAIBHAVANI-RESUME-DATAANALYST.docx](https://github.com/user-attachments/files/17688638/JAIBHAVANI-RESUME-DATAANALYST.docx)
 
 ## Tools
 - EXCEL
