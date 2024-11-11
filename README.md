@@ -61,6 +61,14 @@ Repository : https://github.com/MJaiBhavani/Website_traffic
 Repository : https://github.com/MJaiBhavani/PowerBI
 
  -  ![HRdataanalytics](https://github.com/user-attachments/assets/e68b08fa-1219-45b4-8a5c-4f74b16796d5)
+
+### SQL Project 
+
+- SQL scripts used for data cleaning, aggregation, and analysis.
+- Data samples (or description of the data) used for EDA.
+- README file with detailed project setup and instructions. 
+
+https://github.com/MJaiBhavani/SQL_QURIES
    
 
 
