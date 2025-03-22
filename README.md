@@ -34,8 +34,23 @@ PYTHON , C , C++ ,HTML ,CSS
 
 ## projects 
 
+- [Amazon sales analysis](#amazon-sales-analysis)
 - [web traffic analysis](#web-traffic-analysis)
 - [HR ALAYTICS](#HR-ALAYTICS)
+
+### Amazon sales analysis 
+
+- This Power BI project analyzes Amazon sales data to provide actionable insights on sales performance.
+- It features dynamic visualizations, including maps, bar charts, and line charts, to track Total Revenue, Total Orders, and Total Quantity.
+- The dashboard allows for easy exploration of sales trends over time and across regions.
+- Using parameters like revenue, orders, and quantity, users can interactively explore key metrics.
+- The dataset has been cleaned and transformed to ensure accurate and insightful analysis.
+
+ repository: https://github.com/MJaiBhavani/amazon_sales
+
+-  ![image](https://github.com/user-attachments/assets/d2775873-edec-4301-9f2f-a67b82d4945e)
+
+
 
 ### web traffic analysis 
 -  The "Web Traffic Analysis" project utilizes Power BI to provide a comprehensive overview of website performance and user behavior.
